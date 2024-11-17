@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## Name:Kathiresan K
+## Reg no:212223110021
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
